@@ -37,6 +37,10 @@ A Single Page Application with client-side routing is included, comprising of 3 
 
     > The second page shows an illustration of a person on a motorbike. This is again an infinitely looping animation, albeit with a single cycle being quite a bit longer in duration than Animation 1.
 
+<p align="center">
+  <img src="http://www.martinburford.co.uk/githubimages/setup-lottie/animation-02.png" width="800">
+</p>
+
 - **Animation 3**
 
     > The third page shows an illustration of a fingerprint sensor. This is a non-looping animation, and so will only ever run one.
