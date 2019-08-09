@@ -55,7 +55,7 @@ Within each of the 3 screens mentioned above, there is a table comprising of a n
 
 
 | Effect        | Setting               |
-| ------------- | --------------------- |
+| :------------ | :-------------------- |
 | Direction     | Forward / Backwards   |
 | Speed         | Slo-mo                |
 | Speed         | 1x                    |
