@@ -43,7 +43,11 @@ A Single Page Application with client-side routing is included, comprising of 3 
 
 - **Animation 3**
 
-    > The third page shows an illustration of a fingerprint sensor. This is a non-looping animation, and so will only ever run one.
+    > The third page shows an illustration of a fingerprint sensor. This is a non-looping animation, and so will only ever run once.
+
+<p align="center">
+  <img src="http://www.martinburford.co.uk/githubimages/setup-lottie/animation-03.png" width="800">
+</p>
 
 ### Custom user interaction
 
