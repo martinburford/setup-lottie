@@ -29,6 +29,10 @@ A Single Page Application with client-side routing is included, comprising of 3 
 
     > The first page shows an animation of Dinosaurs. This animation (along with the other 2 used within this project) were downloaded from Lottiefiles (https://lottiefiles.com/featured), an online repository of freely available After Effects animations which have been exported using the Bodymovin plugin. This animation is a relatively short animation sequence which is set to loop indefinitely.
 
+<p align="center">
+  <img src="http://www.martinburford.co.uk/githubimages/setup-lottie/animation-01.png" width="800">
+</p>
+
 - **Animation 2**
 
     > The second page shows an illustration of a person on a motorbike. This is again an infinitely looping animation, albeit with a single cycle being quite a bit longer in duration than Animation 1.
